@@ -4,7 +4,7 @@ The main purpose of this website is learning how to deal with APIs using JQuery 
 
 ## Pages
 ### Main page 🏠
-![image](https://user-images.githubusercontent.com/91671521/201063730-ce92ba79-b452-41bf-a7a4-dbafb7264767.png)
+![image](https://user-images.githubusercontent.com/91671521/201207894-eb3aa1ed-b3a7-47e6-bfc7-d1897ed2a3cd.png)
 
 ### Search by city page 🔍
 User should input a city in order to get the current weather on that city. If the city doesn't exist, an error message appears.
@@ -18,7 +18,7 @@ If the input is valid, the website shows the current temperature, a short descri
 ### Search by location page 📍
 User has to authorize the website to access to his location in order to get the current weather. If your device doesn't support location or the user declined the permission request, an error message appears.
 
-![image](https://user-images.githubusercontent.com/91671521/201071410-aac865a3-f8cf-4ca3-be0b-07d446990198.png)
+![image](https://user-images.githubusercontent.com/91671521/201208080-1914e70d-c427-46a2-84d9-8f85b444514c.png)
 
 If everything is OK, the website the website shows the current temperature, a short description with its respective image.
 
